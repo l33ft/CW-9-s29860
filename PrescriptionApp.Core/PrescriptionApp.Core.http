@@ -1,0 +1,6 @@
+@PrescriptionApp.Core_HostAddress = http://localhost:5121
+
+GET {{PrescriptionApp.Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
